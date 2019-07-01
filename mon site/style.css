@@ -1,0 +1,18 @@
+body{
+  background-image:Linear-gradient(127deg, rgb(210, 255, 198), rgb(142, 255, 138) 70.71%);
+}
+.img{
+  height: 500px;
+  width:900px;
+  margin-left: -300px;
+  margin-top: -130px;
+}
+.imggmc{
+  transform: rotate(90deg);
+  margin-left: 300px;
+  margin-top: 100px;
+  margin-top: -1px;
+}
+.Feedback{
+  margin-top: 90px;
+}
